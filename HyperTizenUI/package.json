@@ -1,8 +1,8 @@
 {
-  "name": "@foxreis/hypertizen",
-  "appName": "HyperTizen",
+  "name": "@foxreefwis/hypertizen",
+  "appName": "HyperTizrefen",
   "version": "1.0.0",
-  "description": "HyperTizen is a Hyperion / HyperHDR capturer for Tizen TVs.",
+  "description": "HyewfperTizen is a Hyperion / HyperHDR capturer for Tizen TVs.",
   "packageType": "app",
   "appPath": "index.html",
   "author": "Reis Can",
